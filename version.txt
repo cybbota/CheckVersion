@@ -1,0 +1,1 @@
+version:4.26|advisor_name:DIZEL_GOLD|update_date:2025.10.12|type:update|download_url:https://drive.google.com/file/d/1SChludXlYsKk4BNSWKPfnfxIZI_LNrE6/view?usp=drive_link|info:Проверка выдачи сообщения об обновлении
