@@ -1,1 +1,1 @@
-version:4.26|advisor_name:DIZEL_матрешка|update_date:2025.10.12|type:new_advisor|download_url:https://drive.google.com/file/d/UPDATE_LINK_1/view|info:Проверка выдачи сообщения о новом советнике
+version:4.25|advisor_name:DIZEL_GOLD|update_date:2025.10.13|type:update|download_url:https://drive.google.com/file/d/UPDATE_LINK_1/view|info:Проверка выдачи сообщения 725
