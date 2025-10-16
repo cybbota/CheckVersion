@@ -1,1 +1,1 @@
-version:4.25|advisor_name:DIZEL_GOLD|update_date:2024.10.15|type:update|download_url:https://drive.google.com/file/d/UPDATE_LINK_1/view|info:Исправлены какашки
+version:4.25|advisor_name:DIZEL_GOLD|update_date:2024.10.16|type:update|download_url:https://drive.google.com/file/d/UPDATE_LINK_1/view|info:Checking the flat on the working timeframe, adding statistics
